@@ -1,0 +1,10 @@
+*{
+    background-color: aqua;
+    margin:0px;
+    padding:0px
+
+}
+header{
+    display: flex;
+    margin-right: 40 px;
+}
